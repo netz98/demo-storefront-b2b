@@ -30,6 +30,11 @@
         "valantic": {
           "foo": "bar"
         },
+        "plugins": {
+          "picker": {
+             "rootCategory": "2"
+           }
+        },
         "commerce-companies-enabled": true
       }
     }
